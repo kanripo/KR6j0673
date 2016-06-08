@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:21.807070
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 首楞嚴義疏注經
 #+PROPERTY: CBETA_ID T39n1799
 #+PROPERTY: ID KR6j0673
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1799
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0673_T_005-0891a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 第五之一首楞嚴義疏注經卷第五(之一)¶
+首楞嚴義疏注經卷第五之一(之一)¶
 ¶
 長水沙門子璿集¶
 
@@ -657,11 +656,10 @@
 
 佛問圓通。如我所證。法因為上　已上六人。¶
 依塵開悟。¶
-首楞嚴義疏注經卷第五(之一)
+首楞嚴義疏注經卷第五之一(之一)
 <pb:KR6j0673_T_005-0897b>¶
 ¶
-
- 第五之二首楞嚴經義疏注經卷第五(之二)¶
+首楞嚴經義疏注經卷第五之二(之二)¶
 ¶
 長水沙門子璿集¶
 
@@ -1247,6 +1245,6 @@
 三摩地。斯為第一　念屬意根。意根即諸根¶
 所依。故攝六也。念即無念。故云淨念。不以念¶
 間。故云相繼。此即於根大性而悟入也。¶
-首楞嚴義疏注經卷第五(之二)
+首楞嚴義疏注經卷第五之二(之二)
 <pb:KR6j0673_T_005-0903a>¶
 
