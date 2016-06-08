@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:23.377796
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 首楞嚴義疏注經
 #+PROPERTY: CBETA_ID T39n1799
 #+PROPERTY: ID KR6j0673
